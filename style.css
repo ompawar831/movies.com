@@ -1,0 +1,48 @@
+.sim{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(240, 102, 221);
+    border: solid;
+}
+
+h1{
+    display: flex;
+   
+    /* background-color: rgb(255, 103, 217); */
+}
+
+
+body{
+    background-color: rgb(194, 62, 255);
+}
+
+h1{
+    display: flex;
+    justify-content: start;
+    background-color: aqua;
+    border: solid;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+.sim{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(235, 255, 123);
+    border:solid
+}
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(91, 217, 255);
+}
+
+body{
+    background-color: rgb(77, 204, 83);
+}
+
